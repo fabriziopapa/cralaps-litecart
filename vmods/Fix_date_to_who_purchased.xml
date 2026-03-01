@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmod>
+  <name>Fix_date_to_who_purchased</name>
+  <version/>
+  <description>Modifica date_to per prendere l'ultimo giorno del mese alle 23:59:59</description>
+  <author>Fabrizio</author>
+
+  <file name="admin_dda/reports.app/who_purchased.inc.php">
+
+    <operation method="replace" type="inline" onerror="warning">
+      <find><![CDATA[$_GET['date_to'] = !empty($_GET['date_to']) ? date('Y-m-d 23:59:59', strtotime($_GET['date_to'])) : date('Y-m-d 23:59:59');]]></find>
+
+      <insert><![CDATA[$_GET['date_to'] = !empty($_GET['date_to']) ? date('Y-m-t 23:59:59', strtotime($_GET['date_to'])) : date('Y-m-t 23:59:59');]]></insert>
+    </operation>
+  </file>
+</vmod>

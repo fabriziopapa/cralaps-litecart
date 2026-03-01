@@ -1,0 +1,19 @@
+Connecting to tcp://smtp.cralaps.it:587 ...
+< 220 pepi1sm-sfepd16.ad.aruba.it Aruba SMTP ESMTP server ready
+> EHLO cralaps.it
+< 250-pepi1sm-sfepd16.ad.aruba.it hello [94.177.160.118], pleased to meet you
+< 250-HELP
+< 250-AUTH LOGIN PLAIN
+< 250-SIZE 524288000
+< 250-ENHANCEDSTATUSCODES
+< 250-8BITMIME
+< 250-STARTTLS
+< 250 OK
+> AUTH LOGIN
+< 334 VXNlcm5hbWU6
+> aW5mb0BjcmFsYXBzLml0
+< 334 UGFzc3dvcmQ6
+> ZnVrZm9zLWdpa3BlcS1rQWdxdTY=
+< 235 2.7.0 ... authentication succeeded
+> MAIL FROM: <>
+< 525 5.7.13 info@cralaps.it: Invio disabilitato per la casella, modificare la password / Sending disabled for this mailbox, please change password
