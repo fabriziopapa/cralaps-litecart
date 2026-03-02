@@ -1,7 +1,7 @@
 
 # LiteCart Cralaps.it
 
-Questo è il progetto per il sito **Cralaps.it**, sviluppato utilizzando il framework **LiteCart**. L'applicazione gestisce un **G.A.S.** (Gruppo Acquisto Solidale) con funzionalità di vendita e gestione degli utenti. Questo repository contiene il codice sorgente e tutte le modifiche personalizzate per il sito.
+Questo è il progetto per il sito **Cralaps.it**, sviluppato utilizzando il framework **LiteCart**. L'applicazione gestisce un **G.A.S.** (Gruppo Acquisto Solidale) con funzionalità di gestione ordini e gestione degli utenti. Questo repository contiene il codice sorgente e tutte le modifiche personalizzate per il sito.
 
 ## Contenuti del progetto
 
@@ -63,3 +63,15 @@ La selezione della lingua, valuta e paese è stata personalizzata per Cralaps.it
 Modifiche alla struttura dei template
 
 Sono stati effettuati dei cambiamenti nel layout e nei file CSS/JS. Ad esempio, sono stati aggiornati i file CSS e JS nel template per una migliore gestione del front-end, inclusi gli aggiornamenti a app.min.css, checkout.min.css, framework.min.css, e relativi file .map.
+
+# Disclaimer
+
+Il presente sito è realizzato **senza scopo di lucro** e ha come unica finalità la gestione di **domanda e offerta** di prodotti e servizi nell'ottica di **ridurre i prezzi per coloro che aderiscono al G.A.S. (Gruppo di Acquisto Solidale)**.
+
+Non sono previsti **costi di adesione** né commissioni sulle transazioni tra i membri del G.A.S.  
+
+La normativa che permette la creazione di iniziative di questo tipo è prevista principalmente dal **Codice Civile italiano**, in particolare dagli articoli relativi alle **associazioni senza scopo di lucro** (artt. 36 e seguenti c.c.) e dal **D.Lgs. n. 460/1997** che disciplina le organizzazioni non lucrative di utilità sociale (ONLUS).  
+
+Inoltre, la gestione dei gruppi di acquisto solidale rientra nelle attività di promozione della **solidarietà tra consumatori** e della **riduzione dei costi attraverso la cooperazione**, attività riconosciute e non soggette ad IVA secondo la normativa fiscale vigente per le associazioni non lucrative.
+
+**Importante:** Il sito non costituisce piattaforma di vendita diretta né intermediario commerciale; ogni transazione avviene tra i membri del G.A.S. in maniera autonoma.
