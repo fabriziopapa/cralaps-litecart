@@ -1,0 +1,33 @@
+# Cache e logs
+/cache/
+/logs/
+/*.log
+
+# Files temporanei editor
+*.swp
+*.tmp
+
+# Configurazioni locali e ambienti
+.env
+.DS_Store
+Thumbs.db
+
+# Upload temporanei
+/uploads/tmp/
+/uploads/cache/
+
+# Dipendenze
+node_modules/
+bower_components/
+
+# OS files
+*.DS_Store
+.idea/
+.vscode/
+
+# Evitare di aggiungere immagini generate o trash
+*.bak
+*.orig
+
+# Ignore database backups (se li tieni dentro il progetto)
+*.sql
