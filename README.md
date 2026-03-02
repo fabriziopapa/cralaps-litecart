@@ -1,13 +1,12 @@
-Ecco un esempio di README.md per il tuo progetto LiteCart Cralaps.it:
 
 # LiteCart Cralaps.it
 
-Questo è il progetto per il sito **Cralaps.it**, sviluppato utilizzando il framework **LiteCart**. L'applicazione gestisce un e-commerce con funzionalità di vendita e gestione degli utenti. Questo repository contiene il codice sorgente e tutte le modifiche personalizzate per il sito.
+Questo è il progetto per il sito **Cralaps.it**, sviluppato utilizzando il framework **LiteCart**. L'applicazione gestisce un **G.A.S.** (Gruppo Acquisto Solidale) con funzionalità di vendita e gestione degli utenti. Questo repository contiene il codice sorgente e tutte le modifiche personalizzate per il sito.
 
 ## Contenuti del progetto
 
 - **LiteCart**: Framework per e-commerce utilizzato per la gestione delle vendite.
-- **Cralaps.it**: Personalizzazioni e funzionalità specifiche per il sito web Cralaps.
+- **Cralaps.it**: Personalizzazioni e funzionalità specifiche per il sito web Cralaps.it
 - **GitHub Repository**: Il codice sorgente è ospitato su GitHub.
 
 ## Funzionalità
